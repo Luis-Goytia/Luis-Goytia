@@ -12,6 +12,8 @@
 
 - 📫 ¿Cómo me puedes contactar? Puedes hacerlo a través de mi mail **luis.goytia.it@gmail.com** 
 
+- 📫 Tambien puedes hacerlo a través del mail **hi.nanodev@gmail.com** 
+
 
 <h3 align="left">Otros medios de contacto: </h3>
 <p align="left">
