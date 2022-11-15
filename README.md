@@ -1,4 +1,4 @@
-<img src="./assets/perfilByLg.png"/>
+<img src="./assets/nanoDev.png"/>
 <h1 align="center">Hola, yo soy Luis Goytia👋👨🏽‍💻</h1>
 <h3 align="center">Full Stack Web Developer con tendencia al Back End </h3>
 
