@@ -4,7 +4,7 @@
 
 - 💬 ¿Quién soy? **Soy una persona comprometida con lo que hace, responsable, flexible al entorno, buen comunicador y con constante tendencia a la autosuperación para lograr ser el desarrollador que quiero ser.**
 
-- 💻 ¿Dónde puedo ver tus proyectos? Cooming soon..
+- 💻 ¿Dónde puedo ver tus proyectos? Cooming soon...
 
 - 🌱 ¿Qué estas estudiando? **Actualmente estoy investigando sobre TypeScript, GraphQL y NextJS.**
 
