@@ -1,14 +1,12 @@
 <img src="./assets/perfilByLg.png"/>
 <h1 align="center">Hola, yo soy Luis Goytia👋👨🏽‍💻</h1>
-<h3 align="center">Full Stack Web Developer con tendencia al Back End ♥️</h3>
+<h3 align="center">Full Stack Web Developer con tendencia al Back End </h3>
 
 - 💬 ¿Quién soy? **Soy una persona comprometida con lo que hace, responsable, flexible al entorno, buen comunicador y con constante tendencia a la autosuperación para lograr ser el desarrollador que quiero ser.**
 
 - 💻 ¿Dónde puedo ver tus proyectos? Cooming soon...
 
 - 🌱 ¿Qué estas estudiando? **Actualmente estoy investigando sobre TypeScript, GraphQL y NextJS.**
-
-- 🎦 ¿Qué hobbies tengo? **Me gusta mucho cocinar, el fútbol, jugar juegos y natacion como deporte principal.**
 
 - 📫 ¿Cómo me puedes contactar? Puedes hacerlo a través de mi mail **luis.goytia.it@gmail.com** 
 
@@ -33,4 +31,7 @@
 <img src='https://img.shields.io/badge/-Github-000?logo=github'> <img src='https://img.shields.io/badge/-Git-orange?logo=git&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luis-goytia&" alt="luisgoytia" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Goytia&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Goytia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
