@@ -31,7 +31,8 @@
 <img src='https://img.shields.io/badge/-Github-000?logo=github'> <img src='https://img.shields.io/badge/-Git-orange?logo=git&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
 
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Goytia&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Goytia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
