@@ -8,7 +8,7 @@
 
 - 🌱 ¿Qué estas estudiando? **Actualmente estoy investigando sobre TypeScript, GraphQL y NextJS.**
 
-- 📫 ¿Cómo me puedes contactar? Puedes hacerlo a través de mi mail **luis.goytia.it@gmail.com** 
+- 📫 ¿Cómo me puedes contactar? Puedes hacerlo a través de mi mail **luisgoytia.dev@gmail.com** 
 
 - 📫 Tambien puedes hacerlo a través del mail **hi.nanodev@gmail.com** 
 
