@@ -1,6 +1,6 @@
 <!--<img src="./assets/nanoDev.png"/>-->
 <h1 align="center">Hola, yo soy Luis Goytia👋👨🏽‍💻</h1>
-<h3 align="center">Full Stack Web Developer con tendencia al Back End </h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 💬 ¿Quién soy? **Soy una persona comprometida con lo que hace, responsable, flexible al entorno, buen comunicador y con constante tendencia a la autosuperación para lograr ser el desarrollador que quiero ser.**
 
