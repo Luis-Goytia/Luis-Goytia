@@ -1,24 +1,47 @@
 <!--<img src="./assets/nanoDev.png"/>-->
-<h1 align="center">Hola, yo soy Luis Goytia👋👨🏽‍💻</h1>
-<h3 align="center">Full Stack Web Developer</h3>
 
-- 💬 ¿Quién soy? **Soy una persona comprometida con lo que hace, responsable, flexible al entorno, buen comunicador y con constante tendencia a la autosuperación para lograr ser el desarrollador que quiero ser.**
+<h1 align="center">¡Hola, Soy Luis Goytia! 👋👨🏽‍💻</h1>
+<h3 align="center">Desarrollador Web Full Stack</h3>
 
-- 💻 ¿Dónde puedo ver tus proyectos? Cooming soon...
+- 💬 **¿Quién soy?** Desarrollador fullstack con énfasis
+en Backend. Durante 2 años, me he
+especializado en Node.js,
+centrándome en el desarrollo web y
+la implementación de chatbots con
+IA. Destaco por mi capacidad para
+resolver problemas de forma rápida
+y dinámica, adaptándome
+ágilmente a cualquier desafío que
+se presente.
 
-- 🌱 ¿Qué estas estudiando? **Actualmente estoy investigando sobre TypeScript, GraphQL y NextJS.**
 
-- 📫 ¿Cómo me puedes contactar? Puedes hacerlo a través de mi mail **luisgoytia.dev@gmail.com** 
+- 🤖 **¿Qué estoy trabajando actualmente?** Desarrollando chatbots con integracion de Servicios de Openai y los servicios de Azure para la implementacion de otros modelos.
+Usando tecnologias como : Nestjs, AWS, Azure Y Whatsap API.
 
-- 📫 Tambien puedes hacerlo a través del mail **hi.nanodev@gmail.com** 
+- 💻 **¿Dónde puedo ver tus proyectos?** ¡Próximamente...!
 
+- 🌱 **¿Qué estoy estudiando?** Actualmente estoy investigando sobre Nestjs, LangChain y Python.
 
+- 📫 **¿Cómo me puedes contactar?** Puedes hacerlo a través de mi correo electrónico: **luisgoytia.dev@gmail.com** 
 <h3 align="left">Otros medios de contacto: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-goytia/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enzods/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+
+## Conocimientos Específicos
+
+### Nest.js
+
+[Nest.js](https://nestjs.com/) es un marco de trabajo progresivo de Node.js para construir aplicaciones escalables y eficientes en el lado del servidor. He utilizado Nest.js en varios proyectos para desarrollar APIs robustas y mantenibles.
+
+### OpenAI
+
+Me especializo en el uso de [OpenAI](https://openai.com/) para integrar inteligencia artificial en aplicaciones y sistemas. He trabajado con la API de OpenAI para desarrollar soluciones innovadoras, desde chatbots hasta sistemas de generación de texto avanzados.
+
+
+<h3 align="left">Tecnologías y Herramientas:</h3>
+
 <img src= 'https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio'>
 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -30,9 +53,7 @@
 
 <img src='https://img.shields.io/badge/-Github-000?logo=github'> <img src='https://img.shields.io/badge/-Git-orange?logo=git&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
 
+---
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Goytia&show_icons=true&theme=radical)
+¡Gracias por visitar mi repositorio!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Goytia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
