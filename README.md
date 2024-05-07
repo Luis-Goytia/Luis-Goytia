@@ -18,7 +18,7 @@ se presente.
 - 🤖 **¿Qué estoy trabajando actualmente?** Desarrollando chatbots con integracion de Servicios de Openai y los servicios de Azure para la implementacion de otros modelos.
 Usando tecnologias como : Nestjs, AWS, Azure Y Whatsap API.
 
-- 💻 **¿Dónde puedo ver tus proyectos?** ¡Próximamente...!
+- 💻 **¿Dónde puedo ver tus proyectos?**  ** https://luiscabezas.vercel.app/** 
 
 - 🌱 **¿Qué estoy estudiando?** Actualmente estoy investigando sobre Nestjs, LangChain y Python.
 
