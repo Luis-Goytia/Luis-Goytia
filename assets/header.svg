@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Luis Goytia — AI Engineer &amp; Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="#67e8f9" stroke-opacity="0.35" stroke-width="1.5">
+    <path d="M90 60 L170 110 L120 190 M170 110 L260 80 M1110 200 L1030 150 L1080 70 M1030 150 L940 185"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="90" cy="60" r="6"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="170" cy="110" r="8"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="190" r="5"/>
+    <circle cx="260" cy="80" r="5"/>
+    <circle cx="1110" cy="200" r="6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1030" cy="150" r="8"><animate attributeName="opacity" values="1;0.3;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="70" r="5"/>
+    <circle cx="940" cy="185" r="5"/>
+  </g>
+  <text x="600" y="122" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="700" fill="#ffffff">Luis Goytia</text>
+  <rect x="400" y="146" width="400" height="3" fill="url(#line)"/>
+  <text x="600" y="190" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#e2e8f0">AI Engineer &amp; Backend Developer</text>
+</svg>
