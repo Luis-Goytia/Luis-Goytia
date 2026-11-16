@@ -59,6 +59,10 @@ I cover the whole path, from the use case and the spec to orchestration, tools a
 
 ## 🧩 How I build agents
 
+- **Harness engineering:** designing the tools, limits and execution loops agents run in.
+- **Context engineering:** token budgeting, memory, retrieval and RAG (pgvector and vector databases).
+- **Agent stack:** Claude Code, MCP, Vercel AI SDK, LangGraph and Langfuse.
+
 ```mermaid
 flowchart LR
     A[Use case] --> B[Spec · BMAD]
@@ -85,6 +89,8 @@ flowchart LR
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Mastra](https://img.shields.io/badge/Mastra-000000?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-servers%20%26%20tools-6366f1?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5C2D91?style=flat-square)
 ![A2A](https://img.shields.io/badge/A2A-6366f1?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square)
