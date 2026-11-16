@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a8a,100:06b6d4&text=Luis%20Goytia&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=AI%20Engineer%20%26%20Backend%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Luis Goytia — AI Engineer & Backend Developer" width="100%" />
+<img src="./assets/header.svg" alt="Luis Goytia — AI Engineer &amp; Backend Developer" width="100%" />
 
 <a href="https://luiscabezas.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+ship+AI+agents+to+production;Multi-agent+systems+%C2%B7+MCP+servers+%C2%B7+RAG;Low-latency+voice+agents;Self-hosted+LLMs+with+Terraform;Spec-driven+development+with+BMAD" alt="What I do" />
@@ -143,9 +143,6 @@ flowchart LR
 ## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Goytia&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Goytia&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e2e8f0" alt="Top languages" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=Luis-Goytia&hide_border=true&background=0f172a&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
 </div>
 
