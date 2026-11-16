@@ -85,6 +85,7 @@ flowchart LR
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Mastra](https://img.shields.io/badge/Mastra-000000?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-servers%20%26%20tools-6366f1?style=flat-square)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-5C2D91?style=flat-square)
 ![A2A](https://img.shields.io/badge/A2A-6366f1?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6366f1?style=flat-square)
 
